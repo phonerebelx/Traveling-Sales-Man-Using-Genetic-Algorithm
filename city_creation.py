@@ -17,7 +17,3 @@ class list_Check:
 
 cc = list_Check()
 
-# x = 0
-# for i in cc.lst:
-#     if i in cc.lst[cc.lst.index(i)+1:]:
-#         print(i)
